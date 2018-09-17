@@ -1,0 +1,1 @@
+Worked with list data structure in this project. Used an array to create the data structure. Functions include insert, append, remove, moveToStart, moveToEnd,prev, next, length, currPos, moveToPos, swap, isSorted, reverse, and merge. testAList.cpp is set to test the moveToStart function. Uncomment file to test remaining functions. 
